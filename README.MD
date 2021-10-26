@@ -33,7 +33,9 @@ by end of summer (ML featuires, checking for cheating, carrer events, show off p
 
 ## Motivation: 
 
-It seems that may students without coop oppertunities / programs / a strong CS culture in their school are lost when trying to apply for job, end up missing oppertunity and then falling behind. StudentWorks seek end to end the unfair advantage given by 
+It seems that may students without coop oppertunities / programs / a strong CS culture in their school are lost when trying to apply for job, end up missing oppertunity and then falling behind. StudentWorks seek end to end the unfair advantage given by those programs by giving students all the information they need to have to apply. for example x internship takes a lot of first years, better use of your time to apply there, or Y doesn't like to hire from your university better to put time into Z. Other information about who got into X company so you can see the ammount of experience you need etc. Finally have a community that supports students through resume roasts etc to make sure everyone is on the grind, having a leetcode bot would be interesting too if we have the time. 
+
+I just seek to help create talent. 
 
 
 Target audience: 
