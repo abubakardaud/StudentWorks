@@ -3,7 +3,7 @@
 
 looking for devs to help, please email me at \[first name] dot \[last name] at mail.mcgill.ca
 
-also looking for social media managers, and people who want to deal with contacting external companies 
+also looking for social media managers,  UX / UI and people who want to deal with contacting external companies 
 
 
 
