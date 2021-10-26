@@ -20,6 +20,8 @@ Project scope roadmap;
 9. ML with reusmes we have in database to show users were to apply and when for the highst chance of success analystics on the process
 10. Hopefully then we can organize online career events to help students get into CS. (resume prep channels / advice / guides applying guides leetcode guides etc)
 11. form to find cofounders / project partners and to show off projects 
+12. Leetcode bot to scan student leetcode see avg / other information / which question did successful applications do to prep 
+13. check to see who got into X or Y company and what experience they had / projects so you can start talioring the reusme to be better 
 
 ## Time line
 
